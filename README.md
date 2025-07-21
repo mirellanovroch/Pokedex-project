@@ -13,7 +13,7 @@ Esta é uma Pokédex desenvolvida para catalogar e exibir informações detalhad
 ## ✨ Funcionalidades ##
 - Listagem de Pokémon
 
----
+
 
 > 📌 Este projeto ainda está em desenvolvimento e continuará recebendo melhorias conforme avanço nos meus estudos.
 
